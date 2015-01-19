@@ -1,0 +1,15 @@
+{
+	"category" : "MicroKanren-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"head",
+		"tail" ],
+	"name" : "MKCons",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

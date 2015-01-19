@@ -1,3 +1,3 @@
 as yet unclassified
 empty
-	^ EmptyEnv ifNil: [ EmptyEnv := MKEnv new ]
+	^ EmptyEnv ifNil: [ EmptyEnv := self new ]

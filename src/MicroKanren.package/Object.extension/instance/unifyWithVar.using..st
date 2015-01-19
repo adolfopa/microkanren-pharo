@@ -1,3 +1,3 @@
 *MicroKanren-unification
 unifyWithVar: aVar using: anEnv
-	^ (aVar walkOver: anEnv) unifyWithObject: self using: anEnv
+	^ (aVar walkOver: anEnv) unifyWithCons: self using: anEnv

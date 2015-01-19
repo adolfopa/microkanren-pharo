@@ -3,10 +3,13 @@
 		 },
 	"instance" : {
 		"testBoundVarFailsToUnifyWithBoundVarIfValuesDontUnify" : "AdolfoPerez 1/18/2015 01:04",
-		"testBoundVarFailsToUnifyWithObjectIfValuesNotEq" : "AdolfoPerez 1/18/2015 01:11",
+		"testBoundVarFailsToUnifyWithConsIfValueDoesNotUnify" : "AdolfoPerezAlvarez 1/18/2015 23:58",
+		"testBoundVarFailsToUnifyWithObjectIfValuesNotEq" : "AdolfoPerezAlvarez 1/18/2015 23:58",
 		"testBoundVarUnifiesWithBoundVarIfValuesUnify" : "AdolfoPerez 1/18/2015 01:05",
+		"testBoundVarUnifiesWithConsIfValueUnifies" : "AdolfoPerezAlvarez 1/18/2015 23:58",
 		"testBoundVarUnifiesWithObjectIfValueEq" : "AdolfoPerez 1/18/2015 01:09",
-		"testFreshVarUnifiesWithBoundVar" : "AdolfoPerez 1/18/2015 01:06",
-		"testFreshVarUnifiesWithFreshVar" : "AdolfoPerez 1/18/2015 00:38",
-		"testFreshVarUnifiesWithObject" : "AdolfoPerez 1/18/2015 01:03",
-		"testFreshVarUnifiesWithSelf" : "AdolfoPerez 1/18/2015 00:15" } }
+		"testFreshVarUnifiesWithBoundVar" : "AdolfoPerezAlvarez 1/18/2015 23:58",
+		"testFreshVarUnifiesWithCons" : "AdolfoPerezAlvarez 1/18/2015 23:58",
+		"testFreshVarUnifiesWithFreshVar" : "AdolfoPerezAlvarez 1/18/2015 23:58",
+		"testFreshVarUnifiesWithObject" : "AdolfoPerezAlvarez 1/18/2015 23:59",
+		"testFreshVarUnifiesWithSelf" : "AdolfoPerezAlvarez 1/18/2015 23:59" } }
