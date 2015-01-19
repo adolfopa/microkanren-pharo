@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testObjectFailsToUnifyWithBoundVarIfValuesNotEqual" : "AdolfoPerez 1/18/2015 16:12",
+		"testObjectFailsToUnifyWithObjectIfNotEqual" : "AdolfoPerez 1/18/2015 16:10",
+		"testObjectUnifiesWithBoundVarIfValuesEqual" : "AdolfoPerez 1/18/2015 16:11",
+		"testObjectUnifiesWithFreshVar" : "AdolfoPerez 1/18/2015 16:07",
+		"testObjectUnifiesWithObjectIfEqual" : "AdolfoPerez 1/18/2015 16:09" } }

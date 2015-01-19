@@ -1,0 +1,16 @@
+{
+	"category" : "MicroKanren-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"EmptyEnv" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"var",
+		"val",
+		"next" ],
+	"name" : "MKEnv",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

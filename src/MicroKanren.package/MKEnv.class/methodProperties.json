@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"bind:to:over:" : "AdolfoPerez 1/17/2015 23:49",
+		"empty" : "AdolfoPerez 1/17/2015 23:42" },
+	"instance" : {
+		"bind:to:" : "AdolfoPerez 1/17/2015 23:46",
+		"setVar:val:next:" : "AdolfoPerez 1/17/2015 23:50",
+		"valueAt:" : "AdolfoPerez 1/17/2015 23:51",
+		"valueAt:ifAbsent:" : "AdolfoPerez 1/17/2015 23:54" } }
