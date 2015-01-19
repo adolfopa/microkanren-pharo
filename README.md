@@ -1,2 +1,4 @@
 # microkanren-pharo
-An implementation of µKanren for Pharo
+
+An implementation of
+[µKanren](http://minikanren.org) for [Pharo](http://pharo.org).
