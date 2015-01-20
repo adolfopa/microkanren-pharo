@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testObjectFailsToUnifyWithBoundVarIfValuesNotEqual
 	| v e |
 	v := MKVar new.
