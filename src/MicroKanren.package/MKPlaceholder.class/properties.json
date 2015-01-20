@@ -1,0 +1,14 @@
+{
+	"category" : "MicroKanren-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AdolfoPerezAlvarez 1/20/2015 23:36",
+	"instvars" : [
+		"id" ],
+	"name" : "MKPlaceholder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

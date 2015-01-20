@@ -8,4 +8,5 @@
 		"testConsUnifiesWithConsIfNoFreshVarsInside" : "AdolfoPerezAlvarez 1/20/2015 22:50",
 		"testConsUnifiesWithConsWithBoundVar" : "AdolfoPerezAlvarez 1/20/2015 22:50",
 		"testConsUnifiesWithConsWithFreshVars" : "AdolfoPerezAlvarez 1/20/2015 22:50",
-		"testConsUnifiesWithFreshVar" : "AdolfoPerezAlvarez 1/20/2015 22:50" } }
+		"testConsUnifiesWithFreshVar" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testConsWithFreshVarsReifiesDeeply" : "AdolfoPerezAlvarez 1/20/2015 23:24" } }

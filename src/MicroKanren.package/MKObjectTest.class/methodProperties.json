@@ -4,6 +4,7 @@
 	"instance" : {
 		"testObjectFailsToUnifyWithBoundVarIfValuesNotEqual" : "AdolfoPerezAlvarez 1/20/2015 22:50",
 		"testObjectFailsToUnifyWithObjectIfNotEqual" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testObjectReifyToSelf" : "AdolfoPerezAlvarez 1/20/2015 23:20",
 		"testObjectUnifiesWithBoundVarIfValuesEqual" : "AdolfoPerezAlvarez 1/20/2015 22:50",
 		"testObjectUnifiesWithFreshVar" : "AdolfoPerezAlvarez 1/20/2015 22:50",
 		"testObjectUnifiesWithObjectIfEqual" : "AdolfoPerezAlvarez 1/20/2015 22:50" } }
