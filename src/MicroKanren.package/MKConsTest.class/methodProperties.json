@@ -9,4 +9,6 @@
 		"testConsUnifiesWithConsWithBoundVar" : "AdolfoPerezAlvarez 1/20/2015 22:50",
 		"testConsUnifiesWithConsWithFreshVars" : "AdolfoPerezAlvarez 1/20/2015 22:50",
 		"testConsUnifiesWithFreshVar" : "AdolfoPerezAlvarez 1/20/2015 22:50",
-		"testConsWithFreshVarsReifiesDeeply" : "AdolfoPerezAlvarez 1/20/2015 23:24" } }
+		"testConsWithFreshVarsReifiesDeeply" : "AdolfoPerezAlvarez 1/20/2015 23:24",
+		"testCreateConsFromOrderedCollection" : "AdolfoPerezAlvarez 1/21/2015 00:35",
+		"toOrdColl:" : "AdolfoPerezAlvarez 1/21/2015 00:33" } }
