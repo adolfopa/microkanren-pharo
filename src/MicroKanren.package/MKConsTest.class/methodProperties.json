@@ -4,7 +4,6 @@
 	"instance" : {
 		"testConsFailsToUnifyWithBoundVarIfValuesDontUnify" : "AdolfoPerezAlvarez 1/18/2015 23:59",
 		"testConsFailsToUnifyWithObject" : "AdolfoPerezAlvarez 1/18/2015 23:55",
-		"testConsUnifiesWithBoundVarIfValueEq" : "AdolfoPerezAlvarez 1/18/2015 23:06",
 		"testConsUnifiesWithBoundVarIfValueUnifies" : "AdolfoPerezAlvarez 1/18/2015 23:59",
 		"testConsUnifiesWithConsIfNoFreshVarsInside" : "AdolfoPerezAlvarez 1/18/2015 23:59",
 		"testConsUnifiesWithConsWithBoundVar" : "AdolfoPerezAlvarez 1/18/2015 23:59",

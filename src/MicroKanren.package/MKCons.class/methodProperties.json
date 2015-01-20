@@ -7,11 +7,12 @@
 	"instance" : {
 		"=" : "AdolfoPerezAlvarez 1/19/2015 00:06",
 		"chainHash" : "AdolfoPerezAlvarez 1/19/2015 23:19",
-		"hash" : "AdolfoPerezAlvarez 1/19/2015 23:15",
+		"hash" : "AdolfoPerezAlvarez 1/20/2015 15:03",
 		"head" : "AdolfoPerezAlvarez 1/18/2015 23:14",
-		"setHead:tail:" : "AdolfoPerezAlvarez 1/18/2015 23:05",
+		"setHead:tail:" : "AdolfoPerezAlvarez 1/20/2015 15:04",
+		"size" : "AdolfoPerezAlvarez 1/20/2015 15:03",
 		"tail" : "AdolfoPerezAlvarez 1/18/2015 23:14",
 		"unifyWith:using:" : "AdolfoPerezAlvarez 1/18/2015 23:09",
-		"unifyWithCons:using:" : "AdolfoPerezAlvarez 1/18/2015 23:53",
+		"unifyWithCons:using:" : "AdolfoPerezAlvarez 1/20/2015 15:09",
 		"unifyWithObject:using:" : "AdolfoPerezAlvarez 1/18/2015 23:54",
 		"walkOver:" : "AdolfoPerezAlvarez 1/19/2015 00:03" } }

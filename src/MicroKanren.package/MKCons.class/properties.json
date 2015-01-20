@@ -7,7 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"head",
-		"tail" ],
+		"tail",
+		"size" ],
 	"name" : "MKCons",
 	"pools" : [
 		 ],

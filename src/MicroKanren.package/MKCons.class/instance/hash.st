@@ -1,3 +1,3 @@
 comparing
 hash
-	^ self species hash bitXor: self chainHash
+	^ self size bitXor: (self species hash bitXor: self chainHash)
