@@ -2,10 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testConsFailsToUnifyWithBoundVarIfValuesDontUnify" : "AdolfoPerezAlvarez 1/18/2015 23:59",
-		"testConsFailsToUnifyWithObject" : "AdolfoPerezAlvarez 1/18/2015 23:55",
-		"testConsUnifiesWithBoundVarIfValueUnifies" : "AdolfoPerezAlvarez 1/18/2015 23:59",
-		"testConsUnifiesWithConsIfNoFreshVarsInside" : "AdolfoPerezAlvarez 1/18/2015 23:59",
-		"testConsUnifiesWithConsWithBoundVar" : "AdolfoPerezAlvarez 1/18/2015 23:59",
-		"testConsUnifiesWithConsWithFreshVars" : "AdolfoPerezAlvarez 1/18/2015 23:59",
-		"testConsUnifiesWithFreshVar" : "AdolfoPerezAlvarez 1/18/2015 23:59" } }
+		"testConsFailsToUnifyWithBoundVarIfValuesDontUnify" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testConsFailsToUnifyWithObject" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testConsUnifiesWithBoundVarIfValueUnifies" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testConsUnifiesWithConsIfNoFreshVarsInside" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testConsUnifiesWithConsWithBoundVar" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testConsUnifiesWithConsWithFreshVars" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testConsUnifiesWithFreshVar" : "AdolfoPerezAlvarez 1/20/2015 22:50" } }

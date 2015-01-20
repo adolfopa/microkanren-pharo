@@ -3,5 +3,5 @@ testFreshVarUnifiesWithSelf
 	| v |
 	v := MKVar new.
 	
-	self assert: (v unifyWith: v using: MKEnv empty) isNotNil
+	self assert: (v unifyWith: v on: MKEnv empty) isNotNil
 	

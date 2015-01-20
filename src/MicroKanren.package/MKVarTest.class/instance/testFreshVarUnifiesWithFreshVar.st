@@ -4,4 +4,4 @@ testFreshVarUnifiesWithFreshVar
 	u := MKVar new.
 	v := MKVar new.
 	
-	self assert: ((u unifyWith: v using: MKEnv empty) valueAt: v) equals: u
+	self assert: ((u unifyWith: v on: MKEnv empty) valueAt: v) equals: u

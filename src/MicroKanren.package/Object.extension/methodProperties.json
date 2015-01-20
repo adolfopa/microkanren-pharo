@@ -2,8 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"unifyWith:using:" : "AdolfoPerez 1/18/2015 16:09",
-		"unifyWithCons:using:" : "AdolfoPerezAlvarez 1/18/2015 23:52",
-		"unifyWithObject:using:" : "AdolfoPerez 1/18/2015 00:47",
-		"unifyWithVar:using:" : "AdolfoPerezAlvarez 1/18/2015 23:50",
+		"unifyWith:on:" : "AdolfoPerezAlvarez 1/20/2015 22:51",
+		"unifyWithCons:on:" : "AdolfoPerezAlvarez 1/20/2015 22:51",
+		"unifyWithObject:on:" : "AdolfoPerezAlvarez 1/20/2015 22:51",
+		"unifyWithVar:using:" : "AdolfoPerezAlvarez 1/20/2015 22:51",
 		"walkOver:" : "AdolfoPerez 1/18/2015 00:24" } }

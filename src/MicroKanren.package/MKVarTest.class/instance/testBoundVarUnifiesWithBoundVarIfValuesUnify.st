@@ -3,8 +3,8 @@ testBoundVarUnifiesWithBoundVarIfValuesUnify
 	| u v e |
 	u := MKVar new.
 	v := MKVar new.
-	e := u unifyWith: #x using: MKEnv empty.
-	e := v unifyWith: #x using: e.
+	e := u unifyWith: #x on: MKEnv empty.
+	e := v unifyWith: #x on: e.
 			
-	self assert: (u unifyWith: v using: e) isNotNil
+	self assert: (u unifyWith: v on: e) isNotNil
 	

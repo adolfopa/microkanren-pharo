@@ -2,8 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testObjectFailsToUnifyWithBoundVarIfValuesNotEqual" : "AdolfoPerez 1/18/2015 16:12",
-		"testObjectFailsToUnifyWithObjectIfNotEqual" : "AdolfoPerez 1/18/2015 16:10",
-		"testObjectUnifiesWithBoundVarIfValuesEqual" : "AdolfoPerez 1/18/2015 16:11",
-		"testObjectUnifiesWithFreshVar" : "AdolfoPerez 1/18/2015 16:07",
-		"testObjectUnifiesWithObjectIfEqual" : "AdolfoPerez 1/18/2015 16:09" } }
+		"testObjectFailsToUnifyWithBoundVarIfValuesNotEqual" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testObjectFailsToUnifyWithObjectIfNotEqual" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testObjectUnifiesWithBoundVarIfValuesEqual" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testObjectUnifiesWithFreshVar" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testObjectUnifiesWithObjectIfEqual" : "AdolfoPerezAlvarez 1/20/2015 22:50" } }

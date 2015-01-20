@@ -1,4 +1,4 @@
 tests
 testObjectUnifiesWithFreshVar
-	self assert: (#x unifyWith: (MKVar new) using: MKEnv empty) isNotNil
+	self assert: (#x unifyWith: (MKVar new) on: MKEnv empty) isNotNil
 	

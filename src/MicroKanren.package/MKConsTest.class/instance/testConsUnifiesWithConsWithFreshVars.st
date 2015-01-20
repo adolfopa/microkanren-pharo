@@ -4,6 +4,6 @@ testConsUnifiesWithConsWithFreshVars
 	x := MKCons of: #(x y z).
 	v := MKVar new.
 	y := MKCons of: { #x . v . #z }.
-	e := x unifyWith: y using: MKEnv empty.
+	e := x unifyWith: y on: MKEnv empty.
 	
 	self assert: (e valueAt: v) equals: #y

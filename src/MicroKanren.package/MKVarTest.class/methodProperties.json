@@ -2,14 +2,14 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testBoundVarFailsToUnifyWithBoundVarIfValuesDontUnify" : "AdolfoPerez 1/18/2015 01:04",
-		"testBoundVarFailsToUnifyWithConsIfValueDoesNotUnify" : "AdolfoPerezAlvarez 1/18/2015 23:58",
-		"testBoundVarFailsToUnifyWithObjectIfValuesNotEq" : "AdolfoPerezAlvarez 1/18/2015 23:58",
-		"testBoundVarUnifiesWithBoundVarIfValuesUnify" : "AdolfoPerez 1/18/2015 01:05",
-		"testBoundVarUnifiesWithConsIfValueUnifies" : "AdolfoPerezAlvarez 1/18/2015 23:58",
-		"testBoundVarUnifiesWithObjectIfValueEq" : "AdolfoPerez 1/18/2015 01:09",
-		"testFreshVarUnifiesWithBoundVar" : "AdolfoPerezAlvarez 1/18/2015 23:58",
-		"testFreshVarUnifiesWithCons" : "AdolfoPerezAlvarez 1/18/2015 23:58",
-		"testFreshVarUnifiesWithFreshVar" : "AdolfoPerezAlvarez 1/18/2015 23:58",
-		"testFreshVarUnifiesWithObject" : "AdolfoPerezAlvarez 1/18/2015 23:59",
-		"testFreshVarUnifiesWithSelf" : "AdolfoPerezAlvarez 1/18/2015 23:59" } }
+		"testBoundVarFailsToUnifyWithBoundVarIfValuesDontUnify" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testBoundVarFailsToUnifyWithConsIfValueDoesNotUnify" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testBoundVarFailsToUnifyWithObjectIfValuesNotEq" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testBoundVarUnifiesWithBoundVarIfValuesUnify" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testBoundVarUnifiesWithConsIfValueUnifies" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testBoundVarUnifiesWithObjectIfValueEq" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testFreshVarUnifiesWithBoundVar" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testFreshVarUnifiesWithCons" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testFreshVarUnifiesWithFreshVar" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testFreshVarUnifiesWithObject" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testFreshVarUnifiesWithSelf" : "AdolfoPerezAlvarez 1/20/2015 22:50" } }

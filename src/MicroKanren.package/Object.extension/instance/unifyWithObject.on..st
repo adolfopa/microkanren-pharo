@@ -1,4 +1,4 @@
 *MicroKanren-unification
-unifyWithObject: anObject using: anEnv 
+unifyWithObject: anObject on: anEnv 
 	self = anObject ifTrue: [ ^ anEnv ].
 	^ nil

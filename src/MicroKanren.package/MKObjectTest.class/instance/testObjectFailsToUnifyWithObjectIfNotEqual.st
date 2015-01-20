@@ -1,3 +1,3 @@
 tests
 testObjectFailsToUnifyWithObjectIfNotEqual
-	self assert: (#x unifyWith: #y using: MKEnv empty) isNil
+	self assert: (#x unifyWith: #y on: MKEnv empty) isNil
