@@ -1,9 +1,9 @@
 tests
 testConsUnifiesWithConsWithFreshVars
 	| v x y e |
-	x := MKCons of: #(x y z).
+	x := #(x y z) asMKCons.
 	v := MKVar new.
-	y := MKCons of: { #x . v . #z }.
+	y := { #x . v . #z } asMKCons.
 	e := x unifyWith: y on: MKEnv empty.
 	
 	self assert: (e valueAt: v) equals: #y

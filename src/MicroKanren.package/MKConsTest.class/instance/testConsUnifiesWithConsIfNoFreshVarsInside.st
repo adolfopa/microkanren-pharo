@@ -1,7 +1,7 @@
 tests
 testConsUnifiesWithConsIfNoFreshVarsInside
 	| x y |
-	x := MKCons of: #(x y z).
-	y := MKCons of: #(x y z).
+	x := #(x y z) asMKCons.
+	y := #(x y z) asMKCons.
 	
 	self assert: (x unifyWith: y on: MKEnv empty) isNotNil

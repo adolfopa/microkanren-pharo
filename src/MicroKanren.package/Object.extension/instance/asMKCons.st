@@ -1,3 +1,0 @@
-*MicroKanren-conversion
-asMKCons
-	^ self

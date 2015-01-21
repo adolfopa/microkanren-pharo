@@ -5,10 +5,10 @@
 		"testConsFailsToUnifyWithBoundVarIfValuesDontUnify" : "AdolfoPerezAlvarez 1/20/2015 22:50",
 		"testConsFailsToUnifyWithObject" : "AdolfoPerezAlvarez 1/20/2015 22:50",
 		"testConsUnifiesWithBoundVarIfValueUnifies" : "AdolfoPerezAlvarez 1/20/2015 22:50",
-		"testConsUnifiesWithConsIfNoFreshVarsInside" : "AdolfoPerezAlvarez 1/20/2015 22:50",
-		"testConsUnifiesWithConsWithBoundVar" : "AdolfoPerezAlvarez 1/20/2015 22:50",
-		"testConsUnifiesWithConsWithFreshVars" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testConsUnifiesWithConsIfNoFreshVarsInside" : "AdolfoPerezAlvarez 1/21/2015 23:42",
+		"testConsUnifiesWithConsWithBoundVar" : "AdolfoPerezAlvarez 1/21/2015 23:43",
+		"testConsUnifiesWithConsWithFreshVars" : "AdolfoPerezAlvarez 1/21/2015 23:43",
 		"testConsUnifiesWithFreshVar" : "AdolfoPerezAlvarez 1/20/2015 22:50",
 		"testConsWithFreshVarsReifiesDeeply" : "AdolfoPerezAlvarez 1/20/2015 23:24",
-		"testCreateConsFromOrderedCollection" : "AdolfoPerezAlvarez 1/21/2015 00:35",
-		"toOrdColl:" : "AdolfoPerezAlvarez 1/21/2015 00:33" } }
+		"testCreateCollectionFromCons" : "AdolfoPerezAlvarez 1/21/2015 23:43",
+		"testCreateConsFromCollection" : "AdolfoPerezAlvarez 1/21/2015 23:40" } }
