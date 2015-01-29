@@ -5,15 +5,15 @@
 	"instance" : {
 		"=" : "AdolfoPerezAlvarez 1/19/2015 00:06",
 		"asOrderedCollection" : "AdolfoPerezAlvarez 1/21/2015 23:24",
-		"chainHash" : "AdolfoPerezAlvarez 1/19/2015 23:19",
+		"chainHash" : "adolfopa 1/29/2015 23:41",
 		"hash" : "AdolfoPerezAlvarez 1/20/2015 15:03",
-		"head" : "AdolfoPerezAlvarez 1/20/2015 22:37",
+		"head" : "adolfopa 1/29/2015 23:41",
 		"printOn:" : "AdolfoPerezAlvarez 1/21/2015 00:13",
-		"reifyUsing:" : "AdolfoPerezAlvarez 1/20/2015 23:28",
+		"reifyUsing:" : "adolfopa 1/29/2015 23:42",
 		"setHead:tail:" : "AdolfoPerezAlvarez 1/20/2015 15:04",
-		"size" : "AdolfoPerezAlvarez 1/20/2015 22:42",
-		"tail" : "AdolfoPerezAlvarez 1/20/2015 22:37",
+		"size" : "adolfopa 1/29/2015 23:42",
+		"tail" : "adolfopa 1/29/2015 23:42",
 		"unifyWith:on:" : "AdolfoPerezAlvarez 1/20/2015 22:51",
-		"unifyWithCons:on:" : "AdolfoPerezAlvarez 1/20/2015 22:51",
+		"unifyWithCons:on:" : "adolfopa 1/29/2015 23:42",
 		"unifyWithObject:on:" : "AdolfoPerezAlvarez 1/20/2015 22:51",
-		"walkOver:" : "AdolfoPerezAlvarez 1/19/2015 00:03" } }
+		"walkOver:" : "adolfopa 1/29/2015 23:42" } }

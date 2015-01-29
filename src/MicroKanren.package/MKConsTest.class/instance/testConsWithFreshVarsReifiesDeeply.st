@@ -1,6 +1,7 @@
 tests
 testConsWithFreshVarsReifiesDeeply
 	| c s |
+	
 	c := MKCons head: #x tail: (MKCons head: (MKCons with: (MKVar new)) tail: (MKCons with: (MKVar new))).
 	s := MKState initial: MKEnv empty.
 	

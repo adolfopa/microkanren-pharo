@@ -1,6 +1,7 @@
 tests
 testConsUnifiesWithConsWithFreshVars
-	| v x y e |
+	| x v y e |
+	
 	x := #(x y z) asMKCons.
 	v := MKVar new.
 	y := { #x . v . #z } asMKCons.

@@ -1,6 +1,7 @@
 tests
 testConsUnifiesWithConsWithBoundVar
-	| x v y e |
+	| x v e y |
+	
 	x := #(x y z) asMKCons.
 	v := MKVar new.
 	e := v unifyWith: #y on: MKEnv empty.

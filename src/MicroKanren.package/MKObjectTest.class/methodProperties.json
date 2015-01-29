@@ -2,9 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testObjectFailsToUnifyWithBoundVarIfValuesNotEqual" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testObjectFailsToUnifyWithBoundVarIfValuesNotEqual" : "adolfopa 1/29/2015 23:44",
 		"testObjectFailsToUnifyWithObjectIfNotEqual" : "AdolfoPerezAlvarez 1/20/2015 22:50",
-		"testObjectReifyToSelf" : "AdolfoPerezAlvarez 1/20/2015 23:20",
-		"testObjectUnifiesWithBoundVarIfValuesEqual" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testObjectReifyToSelf" : "adolfopa 1/29/2015 23:44",
+		"testObjectUnifiesWithBoundVarIfValuesEqual" : "adolfopa 1/29/2015 23:44",
 		"testObjectUnifiesWithFreshVar" : "AdolfoPerezAlvarez 1/20/2015 22:50",
 		"testObjectUnifiesWithObjectIfEqual" : "AdolfoPerezAlvarez 1/20/2015 22:50" } }

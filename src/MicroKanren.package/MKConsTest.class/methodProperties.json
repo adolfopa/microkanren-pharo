@@ -2,13 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testConsFailsToUnifyWithBoundVarIfValuesDontUnify" : "AdolfoPerezAlvarez 1/20/2015 22:50",
+		"testConsFailsToUnifyWithBoundVarIfValuesDontUnify" : "adolfopa 1/29/2015 23:42",
 		"testConsFailsToUnifyWithObject" : "AdolfoPerezAlvarez 1/20/2015 22:50",
-		"testConsUnifiesWithBoundVarIfValueUnifies" : "AdolfoPerezAlvarez 1/20/2015 22:50",
-		"testConsUnifiesWithConsIfNoFreshVarsInside" : "AdolfoPerezAlvarez 1/21/2015 23:42",
-		"testConsUnifiesWithConsWithBoundVar" : "AdolfoPerezAlvarez 1/21/2015 23:43",
-		"testConsUnifiesWithConsWithFreshVars" : "AdolfoPerezAlvarez 1/21/2015 23:43",
-		"testConsUnifiesWithFreshVar" : "AdolfoPerezAlvarez 1/20/2015 22:50",
-		"testConsWithFreshVarsReifiesDeeply" : "AdolfoPerezAlvarez 1/20/2015 23:24",
-		"testCreateCollectionFromCons" : "AdolfoPerezAlvarez 1/21/2015 23:43",
+		"testConsUnifiesWithBoundVarIfValueUnifies" : "adolfopa 1/29/2015 23:42",
+		"testConsUnifiesWithConsIfNoFreshVarsInside" : "adolfopa 1/29/2015 23:42",
+		"testConsUnifiesWithConsWithBoundVar" : "adolfopa 1/29/2015 23:43",
+		"testConsUnifiesWithConsWithFreshVars" : "adolfopa 1/29/2015 23:43",
+		"testConsUnifiesWithFreshVar" : "adolfopa 1/29/2015 23:43",
+		"testConsWithFreshVarsReifiesDeeply" : "adolfopa 1/29/2015 23:43",
+		"testCreateCollectionFromCons" : "adolfopa 1/29/2015 23:43",
 		"testCreateConsFromCollection" : "AdolfoPerezAlvarez 1/21/2015 23:40" } }

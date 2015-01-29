@@ -1,6 +1,7 @@
 tests
 testBoundVarFailsToUnifyWithConsIfValueDoesNotUnify
 	| v e |
+	
 	v := MKVar new.
 	e := v unifyWith: #(x y z) asMKCons on: MKEnv empty.
 	

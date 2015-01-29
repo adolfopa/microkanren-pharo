@@ -1,6 +1,7 @@
 tests
 testBoundVarReifiesToValue
 	| v e s |
+	
 	v := MKVar new.
 	e := v unifyWith: #x on: MKEnv empty.
 	s := MKState initial: e.

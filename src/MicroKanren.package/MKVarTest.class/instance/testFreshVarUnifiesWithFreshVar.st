@@ -1,6 +1,7 @@
 tests
 testFreshVarUnifiesWithFreshVar
 	| u v |
+	
 	u := MKVar new.
 	v := MKVar new.
 	

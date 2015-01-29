@@ -1,6 +1,7 @@
 tests
 testBoundVarFailsToUnifyWithBoundVarIfValuesDontUnify
 	| u v e |
+	
 	u := MKVar new.
 	v := MKVar new.
 	e := u unifyWith: #x on: MKEnv empty.

@@ -1,6 +1,7 @@
 tests
 testFreshVarUnifiesWithBoundVar
 	| u v e |
+	
 	u := MKVar new.
 	v := MKVar new.
 	e := v unifyWith: #x on: MKEnv empty.
