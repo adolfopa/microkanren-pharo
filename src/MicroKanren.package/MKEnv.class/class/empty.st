@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 empty
 	"Answer the empty environment"
 	^ EmptyEnv ifNil: [ EmptyEnv := self new ]

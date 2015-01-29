@@ -1,3 +1,3 @@
-as yet unclassified
+instance creation
 withId: anInteger 
 	^ MKPlaceholder new setId: anInteger
