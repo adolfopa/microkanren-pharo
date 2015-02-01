@@ -5,4 +5,4 @@ testUnifyGoalFailsIfValuesDoNotUnify
 	g := MKGoal unify: #x with: #y.
 	r := g evaluateOn: MKEnv empty.
 	
-	self assert: r isNil
+	self assert: r isEmpty

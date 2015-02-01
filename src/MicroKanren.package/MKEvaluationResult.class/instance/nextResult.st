@@ -1,5 +1,5 @@
 accessing
 nextResult
-	"Answer the next result, or nil if none available."
+	"Answer the next result."
 	
-	^ nextResult ifNotNil: [ nextResult value ]
+	^ nextResult

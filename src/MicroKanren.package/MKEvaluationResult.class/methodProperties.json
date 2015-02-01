@@ -1,6 +1,8 @@
 {
 	"class" : {
-		"with:" : "AdolfoPerezAlvarez 1/29/2015 22:44" },
+		"empty" : "adolfopa 1/31/2015 00:06",
+		"with:" : "adolfopa 1/31/2015 00:06" },
 	"instance" : {
-		"nextResult" : "AdolfoPerezAlvarez 1/29/2015 22:35",
-		"setEnv:" : "AdolfoPerezAlvarez 1/29/2015 22:35" } }
+		"isEmpty" : "adolfopa 1/31/2015 00:07",
+		"nextResult" : "adolfopa 1/31/2015 00:07",
+		"setEnv:nextResult:" : "adolfopa 1/31/2015 00:05" } }
