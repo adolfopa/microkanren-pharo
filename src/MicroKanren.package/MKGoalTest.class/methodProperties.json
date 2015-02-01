@@ -7,6 +7,10 @@
 		"testConjFailsIfFirstGoalFails" : "adolfopa 1/31/2015 14:25",
 		"testConjFailsIfSecondGoalFails" : "adolfopa 1/31/2015 14:26",
 		"testConjSucceedsIfBothGoalsSucceed" : "adolfopa 1/31/2015 14:26",
+		"testDisjFailsIfBothGoalsFail" : "adolfopa 1/31/2015 23:52",
+		"testDisjSucceedsIfBothGoalsSucceed" : "adolfopa 2/1/2015 00:02",
+		"testDisjSucceedsIfFirstGoalSucceeds" : "adolfopa 2/1/2015 00:02",
+		"testDisjSucceedsIfSecondGoalSucceeds" : "adolfopa 2/1/2015 00:02",
 		"testUnifyGoalFailsIfValuesDoNotUnify" : "adolfopa 1/31/2015 15:27",
 		"testUnifyGoalSucceedsIfValuesUnify" : "adolfopa 1/31/2015 15:27",
 		"testUnifyGoalTerminatesEvaluation" : "adolfopa 1/31/2015 15:27" } }
