@@ -3,12 +3,12 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
-	"commentStamp" : "adolfopa 1/31/2015 23:42",
+		"Instance" ],
+	"commentStamp" : "adolfopa 1/31/2015 23:39",
 	"instvars" : [
 		 ],
-	"name" : "MKGoal",
+	"name" : "MKFailureGoal",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "MKGoal",
 	"type" : "normal" }

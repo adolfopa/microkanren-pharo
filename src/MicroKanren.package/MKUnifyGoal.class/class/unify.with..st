@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 unify: anObject with: anotherObject
 	"Answer a new goal that, when evaluated, will try to unify  `anObject' with `anotherObject'."
 
