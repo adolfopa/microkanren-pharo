@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/adolfopa/microkanren-pharo/master/LICENSE)
+
 # microkanren-pharo
 
 An implementation of
