@@ -1,0 +1,15 @@
+{
+	"category" : "MicroKanren-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "adolfopa 1/31/2015 13:42",
+	"instvars" : [
+		"delayedBlock",
+		"forcedResult" ],
+	"name" : "MKDelayedEvaluationResult",
+	"pools" : [
+		 ],
+	"super" : "MKEvaluationResult",
+	"type" : "normal" }

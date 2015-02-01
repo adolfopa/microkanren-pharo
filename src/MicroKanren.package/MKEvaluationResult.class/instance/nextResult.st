@@ -1,4 +1,4 @@
-accessing
+private - accessing
 nextResult
 	"Answer the next result."
 	
