@@ -1,0 +1,15 @@
+{
+	"category" : "MicroKanren-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "adolfopa 1/31/2015 15:42",
+	"instvars" : [
+		"firstGoal",
+		"secondGoal" ],
+	"name" : "MKConjGoal",
+	"pools" : [
+		 ],
+	"super" : "MKGoal",
+	"type" : "normal" }
