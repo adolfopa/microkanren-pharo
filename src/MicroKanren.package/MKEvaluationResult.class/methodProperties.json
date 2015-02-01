@@ -2,11 +2,11 @@
 	"class" : {
 		"delayed:" : "adolfopa 1/31/2015 14:01",
 		"empty" : "adolfopa 1/31/2015 00:06",
-		"with:" : "adolfopa 1/31/2015 00:06" },
+		"with:" : "adolfopa 1/31/2015 15:02",
+		"with:then:" : "adolfopa 1/31/2015 15:03" },
 	"instance" : {
-		"," : "adolfopa 1/31/2015 14:02",
-		"env" : "adolfopa 1/31/2015 14:07",
+		"," : "adolfopa 1/31/2015 15:00",
+		"env" : "adolfopa 1/31/2015 15:04",
 		"flatCollect:" : "adolfopa 1/31/2015 14:07",
 		"isEmpty" : "adolfopa 1/31/2015 00:07",
-		"nextResult" : "adolfopa 1/31/2015 00:07",
-		"setEnv:nextResult:" : "adolfopa 1/31/2015 00:05" } }
+		"nextResult" : "adolfopa 1/31/2015 15:04" } }

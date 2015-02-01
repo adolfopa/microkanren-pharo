@@ -4,4 +4,4 @@ with: anEnv
 	
 	^ anEnv
 		ifNil: [ self empty ]
-		ifNotNil: [ self new setEnv: anEnv nextResult: self empty]
+		ifNotNil: [ self with: anEnv then: self empty]

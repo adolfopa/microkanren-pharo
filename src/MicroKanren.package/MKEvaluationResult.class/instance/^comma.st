@@ -6,4 +6,4 @@ goal combinators
 	
 	aResult isEmpty ifTrue: [ ^ self ].
 	
-	^ self class with: env then: [ nextResult value, aResult ]
+	^ self class with: self env then: [ self nextResult value, aResult ]

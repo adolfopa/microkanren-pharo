@@ -4,10 +4,9 @@
 		 ],
 	"classvars" : [
 		"EmptyResult" ],
-	"commentStamp" : "AdolfoPerezAlvarez 1/29/2015 22:41",
+	"commentStamp" : "adolfopa 1/31/2015 15:07",
 	"instvars" : [
-		"env",
-		"nextResult" ],
+		 ],
 	"name" : "MKEvaluationResult",
 	"pools" : [
 		 ],
