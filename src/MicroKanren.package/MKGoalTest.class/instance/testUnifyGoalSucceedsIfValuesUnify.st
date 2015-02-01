@@ -2,7 +2,7 @@ tests
 testUnifyGoalSucceedsIfValuesUnify
 	| g r |
 	
-	g := MKGoal unify: #x with: #x.
+	g := #x @@ #x.
 	r := g evaluateOn: MKEnv empty.
 	
 	self deny: r isEmpty 

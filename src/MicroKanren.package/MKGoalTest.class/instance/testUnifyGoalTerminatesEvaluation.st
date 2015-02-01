@@ -2,7 +2,7 @@ tests
 testUnifyGoalTerminatesEvaluation
 	| g r |
 	
-	g := MKGoal unify: #x with: #x.
+	g := #x @@ #x.
 	r := g evaluateOn: MKEnv empty.
 	
 	self assert: r nextResult isEmpty
