@@ -2,6 +2,6 @@ tests
 testConjSucceedsIfBothGoalsSucceed
 	| g |
 	
-	g := (MKGoal unify: #x with: #x), (MKGoal unify: #x with: #x).
+	g := MKGoal success, MKGoal success.
 	
 	self assert: (g evaluateOn: MKEnv empty) isEmpty not

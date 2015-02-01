@@ -3,7 +3,8 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"Failure",
+		"Success" ],
 	"commentStamp" : "AdolfoPerezAlvarez 1/29/2015 22:41",
 	"instvars" : [
 		"block" ],
