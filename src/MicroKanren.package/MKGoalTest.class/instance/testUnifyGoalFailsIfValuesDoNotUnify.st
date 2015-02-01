@@ -1,8 +1,7 @@
 tests
 testUnifyGoalFailsIfValuesDoNotUnify
-	| g r |
+	| g |
 	
 	g := #x @@ #y.
-	r := g evaluateOn: MKEnv empty.
 	
-	self assert: r isEmpty
+	self assert: (g evaluateOn: MKEnv empty) isEmpty

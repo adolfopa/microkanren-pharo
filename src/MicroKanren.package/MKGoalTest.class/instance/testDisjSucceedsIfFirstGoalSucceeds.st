@@ -4,4 +4,4 @@ testDisjSucceedsIfFirstGoalSucceeds
 	
 	g := (#x @@ #x) | (#x @@ #y).
 	
-	self assert: (g evaluateOn: MKEnv empty) isEmpty not
+	self deny: (g evaluateOn: MKEnv empty) isEmpty

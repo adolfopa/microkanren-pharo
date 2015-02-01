@@ -1,8 +1,7 @@
 tests
 testUnifyGoalSucceedsIfValuesUnify
-	| g r |
+	| g |
 	
 	g := #x @@ #x.
-	r := g evaluateOn: MKEnv empty.
 	
-	self deny: r isEmpty 
+	self deny: (g evaluateOn: MKEnv empty) isEmpty

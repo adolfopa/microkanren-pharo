@@ -4,4 +4,4 @@ testConjCanBeConjed
 	
 	g := MKGoal success, MKGoal success, MKGoal success.
 	
-	self assert: (g evaluateOn: MKEnv empty) isEmpty not
+	self deny: (g evaluateOn: MKEnv empty) isEmpty

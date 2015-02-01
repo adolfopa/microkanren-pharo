@@ -1,8 +1,7 @@
 tests
 testUnifyGoalTerminatesEvaluation
-	| g r |
+	| g |
 	
 	g := #x @@ #x.
-	r := g evaluateOn: MKEnv empty.
 	
-	self assert: r nextResult isEmpty
+	self assert: (g evaluateOn: MKEnv empty) nextResult isEmpty
