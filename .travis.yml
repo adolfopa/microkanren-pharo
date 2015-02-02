@@ -1,0 +1,5 @@
+before_install:
+  - curl http://get.pharo.org/travis+vm | bash
+  - curl http://get.pharo.org/30 | bash
+script:
+  - ./pharo Pharo.image eval ci/script.st
