@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/adolfopa/microkanren-pharo.svg)](https://travis-ci.org/adolfopa/microkanren-pharo)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/adolfopa/microkanren-pharo/master/LICENSE)
 
 # microkanren-pharo
