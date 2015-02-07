@@ -1,0 +1,6 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testRunningFailingScriptProducesEmptyCollection" : "adolfopa 2/7/2015 13:41",
+		"testRunningSucceedingProgramReturnsListOfBindings" : "adolfopa 2/7/2015 13:57" } }

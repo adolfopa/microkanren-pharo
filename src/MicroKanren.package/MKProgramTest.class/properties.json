@@ -1,0 +1,14 @@
+{
+	"category" : "MicroKanren-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MKProgramTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

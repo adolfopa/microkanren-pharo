@@ -1,0 +1,14 @@
+{
+	"category" : "MicroKanren-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "adolfopa 2/7/2015 14:08",
+	"instvars" : [
+		 ],
+	"name" : "MKProgram",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
