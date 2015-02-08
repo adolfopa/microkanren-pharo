@@ -1,4 +1,5 @@
 before_install:
+  - sudo dpkg --add-architecture i386
   - curl http://get.pharo.org/travis+vm | bash
   - curl http://get.pharo.org/30 | bash
 script:
