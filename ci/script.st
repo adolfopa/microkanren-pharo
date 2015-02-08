@@ -1,7 +1,9 @@
-| runner failures errors |
+| runner failures errors buildDir |
+
+buildDir := OSPlatform current environment at: 'TRAVIS_BUILD_DIR'.
 
 Gofer new
-  url: 'http://smalltalkhub.com/mc/adolfopa/MicroKanren/main'
+  url: 'filetree://', buildDir, '/src'
     username: ''
     password: '';
   package: 'MicroKanren';
