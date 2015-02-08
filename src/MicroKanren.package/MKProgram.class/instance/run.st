@@ -8,4 +8,5 @@ run
 	results := (script value: var) evaluateOn: MKEnv empty.
 	
 	^ results asOrderedCollection
-		collect: [ :e | e valueAt: var ] thenReject: [ :e | e isNil ]
+		collect: [ :e | var reifyUsing: (MKState initial: e) ]
+			thenReject: [ :e | e isNil ]
