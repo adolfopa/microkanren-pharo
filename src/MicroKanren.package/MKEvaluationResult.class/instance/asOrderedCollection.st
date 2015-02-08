@@ -1,12 +1,12 @@
 converting
 asOrderedCollection
-	| xs ys |
+	| collection result |
 	
-	xs := OrderedCollection new.
-	ys := self.
+	collection := OrderedCollection new.
+	result := self.
 	
-	[ ys isEmpty ] whileFalse: [ 
-		xs add: ys env.
-		ys := ys nextResult value ].
+	[ result isEmpty ] whileFalse: [ 
+		collection add: result env.
+		result := result nextResult value ].
 	
-	^ xs
+	^ collection

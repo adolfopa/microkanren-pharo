@@ -1,7 +1,7 @@
 unification
 walkOver: anEnv
-	| h t |
+	| walkedHead walkedTail |
 	
-	h := self head walkOver: anEnv.
-	t := self tail walkOver: anEnv.
-	^ self class head: h tail: t
+	walkedHead := self head walkOver: anEnv.
+	walkedTail := self tail walkOver: anEnv.
+	^ self class head: walkedHead tail: walkedTail

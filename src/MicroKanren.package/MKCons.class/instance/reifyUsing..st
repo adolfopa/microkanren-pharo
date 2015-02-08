@@ -1,6 +1,6 @@
 reification
 reifyUsing: aState
-	| h |
+	| reifiedHead |
 	
-	h := self head reifyUsing: aState.
-	^ self class head: h tail: (self tail reifyUsing: aState)
+	reifiedHead := self head reifyUsing: aState.
+	^ self class head: reifiedHead tail: (self tail reifyUsing: aState)

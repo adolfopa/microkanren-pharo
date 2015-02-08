@@ -1,7 +1,7 @@
 private - hashing
 chainHash
-	| h |
+	| hash |
 	
-	h := self head hash.
-	self tail ifNil: [ ^ h ].
-	^ h bitXor: self tail chainHash
+	hash := self head hash.
+	self tail ifNil: [ ^ hash ].
+	^ hash bitXor: self tail chainHash

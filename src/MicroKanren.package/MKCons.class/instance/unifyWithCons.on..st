@@ -1,11 +1,11 @@
 unification
 unifyWithCons: aConsOrNil on: anEnv
 	aConsOrNil ifNotNil: [
-		| e cons |
+		| env cons |
 		
 		cons := aConsOrNil walkOver: anEnv.
-		e := self head unifyWith: cons head on: anEnv.
-		e ifNotNil: [
-			^ self tail unifyWithCons: cons tail on: e ]].
+		env := self head unifyWith: cons head on: anEnv.
+		env ifNotNil: [
+			^ self tail unifyWithCons: cons tail on: env ]].
 	
 	^ nil

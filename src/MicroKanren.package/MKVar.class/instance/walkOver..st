@@ -1,8 +1,8 @@
 unification
 walkOver: anEnv 
-	| x |
+	| value |
 
-	x := anEnv valueAt: self ifAbsent: [ self ].
-	x = self ifTrue: [ ^ self ].
+	value := anEnv valueAt: self ifAbsent: [ self ].
+	value = self ifTrue: [ ^ self ].
 
-	^ x walkOver: anEnv
+	^ value walkOver: anEnv
