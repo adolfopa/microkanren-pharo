@@ -1,5 +1,6 @@
 before_install:
-  - curl http://get.pharo.org/travis+vm | bash
+  - sudo apt-get install libasound2:i386 libc6:i386 libfreetype6:i386 libgl1-mesa:i386 libssl1.0.0:i386 libx11-6:i386
+  - curl http://get.pharo.org/vm | bash
   - curl http://get.pharo.org/30 | bash
 script:
   - ./pharo Pharo.image eval ci/script.st
