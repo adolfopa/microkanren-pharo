@@ -3,7 +3,8 @@
 		 },
 	"instance" : {
 		"testBoundedRunReturnsRequestedResults" : "adolfopa 2/8/2015 14:28",
-		"testRunReifiesResults" : "adolfopa 2/8/2015 14:16",
+		"testRunReifiesResults" : "adolfopa 2/8/2015 23:38",
+		"testRunWalksOverResults" : "adolfopa 2/8/2015 23:36",
 		"testRunningFailingScriptProducesEmptyCollection" : "adolfopa 2/7/2015 13:41",
 		"testRunningSucceedingProgramReturnsListOfBindings" : "adolfopa 2/7/2015 13:57",
 		"testUnboundedRunReturnsAllResults" : "adolfopa 2/8/2015 14:22" } }
