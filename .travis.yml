@@ -1,6 +1,7 @@
-before_install:
+install:
   - sh ci/install-deps.sh
   - curl http://get.pharo.org/vm | bash
   - curl http://get.pharo.org/30 | bash
+
 script:
   - ./pharo Pharo.image eval ci/script.st
