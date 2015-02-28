@@ -1,5 +1,7 @@
 #!/bin/sh
 
+sudo apt-get update
+
 sudo apt-get install \
      libasound2:i386 \
      libc6:i386 \
