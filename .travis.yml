@@ -1,3 +1,10 @@
+env:
+  global:
+    - PHARO_VM=vm
+  matrix:
+    - PHARO_IMAGE=30
+    - PHARO_IMAGE=40
+
 install:
   - sh ci/install-deps.sh
   - sh ci/install-pharo.sh
