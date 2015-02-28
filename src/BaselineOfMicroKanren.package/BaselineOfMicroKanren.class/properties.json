@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMicroKanren",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMicroKanren",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

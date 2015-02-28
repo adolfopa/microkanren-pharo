@@ -1,0 +1,1 @@
+(name 'BaselineOfMicroKanren-adolfopa.1' message 'Add simple baseline to projectAs MicroKanren has no external dependencies, we don''t really need a baseline, but it is useful for standarizing the build/load process.' id 'b44775d3-aa53-41cd-9dbf-3f708cb0e924' date '28 February 2015' time '6:41:44.894305 pm' author 'adolfopa' ancestors () stepChildren ())
