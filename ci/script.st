@@ -2,11 +2,9 @@
 
 buildDir := OSPlatform current environment at: 'TRAVIS_BUILD_DIR'.
 
-Gofer new
-  url: 'filetree://', buildDir, '/src'
-    username: ''
-    password: '';
-  package: 'MicroKanren';
+Metacello new
+  baseline: 'MicroKanren';
+  repository: 'filetree://', buildDir, '/src';
   load.
 
 runner := CommandLineTestRunner runPackage: 'MicroKanren'.
