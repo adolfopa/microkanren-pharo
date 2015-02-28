@@ -1,5 +1,6 @@
 env:
   global:
+    - PHARO_DEP_MGMT=ubuntu
     - PHARO_VM=vm
   matrix:
     - PHARO_IMAGE=30
